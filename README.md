@@ -1,2 +1,2 @@
-# Rolio
-生成Rolio固件教学
+# RolioFirmware
+Firmware for the Rolio split wireless keyboard

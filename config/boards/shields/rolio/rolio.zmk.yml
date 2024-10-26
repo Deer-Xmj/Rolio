@@ -1,0 +1,15 @@
+file_format: "1"
+id: rolio
+name: Rolio
+type: shield
+url: 
+requires: [Nice!Nano]
+exposes: [i2c_oled]
+features:
+  - keys
+  - encoder
+  - backlight
+  - underglow
+siblings:
+  - rolio_left
+  - rolio_right
